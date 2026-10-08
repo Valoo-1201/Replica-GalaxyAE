@@ -1,0 +1,12 @@
+pyproject.toml
+src/desom_astro/__init__.py
+src/desom_astro.egg-info/PKG-INFO
+src/desom_astro.egg-info/SOURCES.txt
+src/desom_astro.egg-info/dependency_links.txt
+src/desom_astro.egg-info/top_level.txt
+src/desom_astro/analysis/__init__.py
+src/desom_astro/data/__init__.py
+src/desom_astro/models/__init__.py
+src/desom_astro/models/som_layer.py
+src/desom_astro/training/__init__.py
+tests/test_som_layer.py
