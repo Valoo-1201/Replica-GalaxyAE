@@ -1,0 +1,12 @@
+.DS_Store
+data/*
+results/*
+!data/.gitkeep
+!results/.gitkeep
+*.h5
+*.fits
+*.npz
+*.keras
+__pycache__/
+.ipynb_checkpoints/
+.venv/
